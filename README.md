@@ -1,13 +1,13 @@
 # EstagioRibeiraoPreto-Gupy
 Resolução dos desafios propostos.
 
-##1) Observe o trecho de código abaixo: 
+## 1) Observe o trecho de código abaixo: 
 Ao final do processamento, qual será o valor da variável SOMA? 
 Resposta: 91
 
-##2) Código "fibonacci.js"
+## 2) Código "fibonacci.js"
 
-##3) Descubra a lógica e complete o próximo elemento:  
+## 3) Descubra a lógica e complete o próximo elemento:  
 a) 1, 3, 5, 7, (9)
 soma-se 2 a cada casa, Resposta: 9;
 
@@ -26,7 +26,7 @@ Sequencia de Fibonacci, soma-se os dois numeros anteriores. Resposta: 13;
 f) 2,10, 12, 16, 17, 18, 19, (200)
 todos os numeros começam com a letra D Resposta: 200;
 
-##4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+## 4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
