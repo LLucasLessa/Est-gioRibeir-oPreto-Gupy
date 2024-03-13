@@ -37,4 +37,4 @@ uma vez na sala de interruptores ligaria a 2 e desligaria a 3. e voltaria a sala
 vendo que a lampada A ligou e a lampada B desligou, defino que a sequencia de interruptores e lampadas é a sequinte:
 1 = C | 2 = A | 3 = B.
 
-##5) codigo "inverterString.js"
+## 5) codigo "inverterString.js"
